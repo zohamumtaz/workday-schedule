@@ -1,7 +1,7 @@
 # Workday Schedular
 ![Screenshot1](./images/screenshot1.png)
 
-# Deployed linkhttps://zohamumtaz.github.io/workday-schedule/.
+# Deployed linkhttps:https://zohamumtaz.github.io/workday-schedule/
 # github repo https://github.com/zohamumtaz/workday-schedule
 ## how the schedular works.
 * Workday Schedular is  made that shows the workday: 9AM-5PM.
