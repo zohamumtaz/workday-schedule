@@ -3,8 +3,7 @@
 
 # Deployed link
 
-# github repo 
-
+# github repo https://github.com/zohamumtaz/workday-schedule
 ## how the schedular works.
 * Workday Schedular is  made that shows the workday: 9AM-5PM.
 * The day is shown in hour time slots.
