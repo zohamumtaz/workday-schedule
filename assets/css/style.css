@@ -1,0 +1,34 @@
+
+
+textarea {
+  resize: none;
+}
+
+.past-hour {
+  background-color: rgb(189, 189, 189);
+  border-color: gray;
+}
+
+.present-hour {
+  background-color: crimson;
+  border-color: crimson;
+}
+
+.future-hour {
+  background-color: rgb(90, 177, 90);
+  bordere-color: rgb(41, 136, 41);
+}
+
+button {
+  background-color: darkturquoise;
+  border-radius: 0px 5px 5px 0px;
+}
+
+header {
+  border-bottom-width: 10px;
+  text-color: red;
+}
+
+button {
+  font-size: 2em;
+}
